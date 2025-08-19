@@ -1,0 +1,7 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.fontSize": 14,
+    "editor.fontFamily": "Consolas, 'courier New', monospace",
+    "editor.tabSize": 4,
+    "editor.renderWhitespace": "all"
+}
