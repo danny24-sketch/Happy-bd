@@ -42,17 +42,17 @@ function createHearts() {
 function loadPhotos() {
     const gallery = document.getElementById('gallery');
    const photos = [
-    'memories/photo1.jpg', 'memories/photo2.jpg', 'memories/photo3.jpg',
-    'memories/photo4.jpg', 'memories/photo5.jpg', 'memories/photo6.jpg',
-    'memories/photo7.jpg', 'memories/photo8.jpg', 'memories/photo9.jpg',
-    'memories/photo10.jpg', 'memories/photo11.jpg', 'memories/photo12.jpg',
-    'memories/photo13.jpg', 'memories/photo14.jpg', 'memories/photo15.jpg',
-    'memories/photo16.jpg', 'memories/photo17.jpg', 'memories/photo18.jpg',
-    'memories/photo19.jpg', 'memories/photo20.jpg', 'memories/photo21.jpg',
-    'memories/photo22.jpg', 'memories/photo23.jpg', 'memories/photo24.jpg',
-    'memories/photo25.jpg', 'memories/photo26.jpg', 'memories/photo27.jpg',
-    'memories/photo28.jpg', 'memories/photo29.jpg', 'memories/photo30.jpg',
-    'memories/photo31.jpg', 'memories/photo32.jpg'
+    'MEMORIES/photo1.jpg', 'MEMORIES/photo2.jpg', 'MEMORIES/photo3.jpg',
+    'MEMORIES/photo4.jpg', 'MEMORIES/photo5.jpg', 'MEMORIES/photo6.jpg',
+    'MEMORIES/photo7.jpg', 'MEMORIES/photo8.jpg', 'MEMORIES/photo9.jpg',
+    'MEMORIES/photo10.jpg', 'MEMORIES/photo11.jpg', 'MEMORIES/photo12.jpg',
+    'MEMORIES/photo13.jpg', 'MEMORIES/photo14.jpg', 'MEMORIES/photo15.jpg',
+    'MEMORIES/photo16.jpg', 'MEMORIES/photo17.jpg', 'MEMORIES/photo18.jpg',
+    'MEMORIES/photo19.jpg', 'MEMORIES/photo20.jpg', 'MEMORIES/photo21.jpg',
+    'MEMORIES/photo22.jpg', 'MEMORIES/photo23.jpg', 'MEMORIES/photo24.jpg',
+    'MEMORIES/photo25.jpg', 'MEMORIES/photo26.jpg', 'MEMORIES/photo27.jpg',
+    'MEMORIES/photo28.jpg', 'MEMORIES/photo29.jpg', 'MEMORIES/photo30.jpg',
+    'MEMORIES/photo31.jpg', 'MEMORIES/photo32.jpg'
 ];
     
     photos.forEach(photo => {
